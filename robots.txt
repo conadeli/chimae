@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://chimae.netlify.app/sitemap.xml
+Sitemap: https://chimae.netlify.app/sitemap_naver.xml
